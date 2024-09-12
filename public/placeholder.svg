@@ -1,0 +1,13 @@
+<svg width="400" height="225" xmlns="http://www.w3.org/2000/svg"><rect width="400" height="225" fill="#cccccc"/><text x="50%" y="50%" font-family="Arial" font-size="24" fill="#ffffff" text-anchor="middle" dy=".3em">Placeholder Image</text></svg>
+<!-- echo '<svg width="400" height="225" xmlns="http://www.w3.org/2000/svg"><rect width="400" height="225" fill="#cccccc"/><text x="50%" y="50%" font-family="Arial" font-size="24" fill="#ffffff" text-anchor="middle" dy=".3em">Placeholder Image</text></svg>' > /Users/sumit/Desktop/news/public/placeholder.svg -->
+    <!-- errno: -13,
+    code: 'EACCES',
+    syscall: 'open',
+    path: '/Users/sumit/Desktop/news/components/newsfront.tsx'
+  }
+}
+EACCES: permission denied, open '/Users/sumit/Desktop/news/components/newsfront.tsx'
+(base) sumit@sumits-MacBook-Air news % ls -l /Users/sumit/Desktop/news/components -->
+
+<!-- -rw-r--r--  1 root  staff  18171 Sep 12 17:16 news-front-end.tsx
+drwxr-xr-x  5 root  staff    160 Sep 12 17:16 ui -->
