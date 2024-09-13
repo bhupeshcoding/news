@@ -27,7 +27,8 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "firebase.js",
-    "app/api/news.js"
+    "app/api/news.js",
+    "components/Pagination.tsx"
   ],
   "exclude": ["node_modules"]
 }
