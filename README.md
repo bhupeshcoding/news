@@ -25,7 +25,8 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.![Screenshot 2024-09-13 at 10 10 31 PM](https://github.com/user-attachments/assets/c0c9d767-b602-499c-aad4-175065f9acc0)
+
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.![Screenshot 2024-09-13 at 9 50 01 PM](https://github.com/user-attachments/assets/00be468c-3167-485c-8ac2-a505c042e9e3)
 ![Screenshot 2024-09-11 at 8 49 24 PM]
 
