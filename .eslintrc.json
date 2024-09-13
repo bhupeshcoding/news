@@ -1,3 +1,27 @@
 {
-  "extends": ["next/core-web-vitals", "next/typescript"]
+  "extends": [
+    "next/core-web-vitals",
+    "next/typescript",
+    "plugin:react/recommended"
+  ],
+  "rules": {
+    "@typescript-eslint/no-unused-vars": "off",
+    "react/react-in-jsx-scope": "off",
+    "@typescript-eslint/explicit-module-boundary-types": "off", // Optional, but recommended
+    "@typescript-eslint/no-explicit-any": "off",
+    "react/prop-types": "off",
+    "@next/next/no-img-element": "off",
+    "@typescript-eslint/ban-types": [
+      "error",
+      {
+        "types": {
+          "{}": {
+            "message": "Use an explicit type for function component props",
+            "fixWith": "React.PropsWithChildren<{}>"
+          }
+        }
+      }
+    ],
+    "indent": ["error", 2] // Enforce 2-space indentation
+  }
 }

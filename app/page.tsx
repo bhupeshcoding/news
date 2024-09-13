@@ -1,13 +1,20 @@
 // import { Newsget } from "@/components/newsget";
 
-import Newsarticle from "@/components/Newsarticle";
+import NewsComponent from "@/components/NewsComponent";
+import SideComponent from "@/components/SIdebarComponent";
 
-// import Component from "@/components/Newsget";
+// import Newsarticle from "@/components/Newsarticle";
 
 export default function Home() {
   return (
     <>
-      <Newsarticle />
+      {/* <Newsarticle /> */}
+      {/* <NewsComponent />
+      <SideComponent /> */}
+      <div className="flex flex-row">
+        <NewsComponent />
+        <SideComponent />
+      </div>
     </>
   );
 }
