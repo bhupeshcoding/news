@@ -38,3 +38,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 # newshub
 >>>>>>> 6dd1ef2982862c8865fee8cb7d15375a423d0f29
+>>>>>>>
+>>>>>>> 
