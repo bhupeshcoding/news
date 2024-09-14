@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+Note https://gnews.io/ This api is a paid api ,This is an article about a news API. It discusses what the API is and what it can do. The API can search for news articles from over 60,000 sources in 22 languages. It can also be used to track historical news articles. Some of the important points are that the free plan has limitations and that a paid subscription is required to see full articles.Cap of requests per day
+100 for free plan.
+
 ## Getting Started
 
 First, run the development server:
